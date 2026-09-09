@@ -43,14 +43,6 @@ pipeline. Most of that work is public — the numbers below link straight to the
 
 <br />
 
-## Things I built and still maintain
-
-- **[dynamic_virtualized_list](https://github.com/mattermost/mattermost/tree/master/webapp/channels/src/components/dynamic_virtualized_list)** — the message-list virtualization engine powering Mattermost's channel view, still in the monorepo today
-- **[dynamic-virt-list](https://github.com/sudheerDev/dynamic-virt-list)** — my independent rewrite of that engine, built against a Playwright regression suite that captures scroll-position and load-order edge cases as executable specs
-- Four PRs merged to the Mattermost monorepo in 2026 fixing image-layout-shift, scroll-position, and virtualized-list regressions — 6 years after joining as a contributor
-
-<br />
-
 ## Tech Stack
 
 **Frontend**
