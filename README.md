@@ -84,23 +84,6 @@ pipeline. Most of that work is public — the numbers below link straight to the
 
 <br />
 
-## GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sudheerDev&show_icons=true&theme=github_dark&hide_border=true&count_private=false" />
-  <img alt="Sudheer's GitHub stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=sudheerDev&show_icons=true&theme=default&hide_border=true&count_private=false" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sudheerDev&theme=github-dark-blue&hide_border=true" />
-  <img alt="Sudheer's GitHub streak" width="49%" src="https://streak-stats.demolab.com/?user=sudheerDev&theme=default&hide_border=true" />
-</picture>
-
-</div>
-
-<br />
-
 ## Experience
 
 | | | |
