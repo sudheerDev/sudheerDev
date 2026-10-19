@@ -80,7 +80,7 @@ pipeline. Most of that work is public — the numbers below link straight to the
 
 | | | |
 |---|---|---|
-| **Agora** | Frontend Engineer | Feb 2025 – Jul 2026 |
+| **Agora** | Staff Frontend Engineer | Feb 2025 – Jul 2026 |
 | **Boardroom.io** | Founding Frontend Engineer | Nov 2020 – Dec 2024 |
 | **Mattermost** | Frontend Engineer | Jul 2018 – Nov 2020 |
 | **Dataglen** | Senior Frontend Engineer | Jun 2017 – Jul 2018 |
